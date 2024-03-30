@@ -1,0 +1,2 @@
+twitchAPI~=4.2.0
+vgamepad~=0.1.0
